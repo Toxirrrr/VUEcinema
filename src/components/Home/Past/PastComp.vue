@@ -6,7 +6,7 @@ import './PastComp.css'
   <section class="past">
     <div class="container">
       <div class="past__wrapper">
-        <img class="past__img" src="/img/past__logo.svg" alt="past__logo" />
+        <img class="past__img" src="/img/past__logo.svg" alt="past__logo" draggable="false"/>
         <p class="past__text">
           After the events at the Leipzig-Halle airport, Natasha was overtaken by the mistakes of
           the past. The Red Room again made itself felt - a program to create Widows - professional
