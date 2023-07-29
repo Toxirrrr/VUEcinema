@@ -1,0 +1,77 @@
+.kong {
+  padding: 183px 0 173px;
+  background-image: url('/img/kong__bgi.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.kong__wrapper {
+  max-width: 600px;
+}
+
+.kong__header {
+  color: #fff;
+  font-family: 'Montserrat';
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.kong__text {
+  color: #c8c8c8;
+  text-align: justify;
+  font-family: 'Montserrat';
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 47.2px;
+  margin-top: 17px;
+  width: 96%;
+}
+
+.kong__btn-wrapper {
+}
+
+.kong__btn {
+  color: #000;
+  text-align: justify;
+  font-family:'Roboto';
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 12px;
+  border-radius: 4px;
+  background-color: #f18128;
+  border: none;
+  width: 166px;
+  padding: 17px 0;
+  text-align: center;
+  transition: all 0.4s ease;
+}
+
+.kong__btn:hover {
+    background-color: #f18128;
+    color: #000;
+}
+
+.kong__btn:nth-child(1) {
+  margin-right: 30px;
+}
+.kong__btn:nth-child(2) {
+  margin-right: 0;
+  color: #fff;
+  background-color: #040d1f;
+}
+.kong__btn:hover {
+    background-color: #f18128;
+    color: #000;
+}
+
+.kong__btn:nth-child(1):hover  {
+    margin-right: 30px;
+    color: #ffffff;
+    background-color: #040d1f;
+  }

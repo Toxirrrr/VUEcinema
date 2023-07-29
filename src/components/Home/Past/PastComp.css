@@ -1,0 +1,46 @@
+.past {
+    padding: 42px 80px;
+    background-image: url('/public/img/past__bgi.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.past__wrapper {
+}
+
+.past__img {
+}
+
+.past__text {
+  color: #000;
+  text-align: justify;
+  font-family:'Roboto';
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+  margin: 51px 0 55px;
+  max-width: 558px;
+}
+
+.past__btn {
+  border-radius: 4px;
+  background-color: #f18128;
+  color: #000;
+  text-align: justify;
+  font-family:'Roboto';
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 12px; 
+  border: none;
+  padding: 18px 0;
+  width: 166px;
+  text-align: center;
+  transition: all 0.4s ease;
+}
+
+.past__btn:hover {
+    background-color: #040D1F;
+    color: white;
+}
