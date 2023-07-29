@@ -31,16 +31,20 @@
     flex-direction: column;
     align-items: center;
     width: 255px;
-    background-size: cover;
     background-position: center;
-    background-image: url('/img/the__item-1.jpg');
+    background: url('/img/the__item-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
     padding: 167px 14px 19px;
     border-radius: 6px;
-    transition: all 0.4s ease;
+    transition: background-size 0.2s ease;
+    transition: background-size 0.2s ease-in;
+    -moz-transition: background-size 0.2s ease-in;
+    background-size: 103%;
 }
 
 .the__item:hover {
-    transform: scale(1.05);
+    background-size: 110%;
 }
 
 .the__item:nth-child(2) {
