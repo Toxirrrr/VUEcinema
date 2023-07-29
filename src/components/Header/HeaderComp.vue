@@ -15,7 +15,7 @@ console.log('ok')
             height="42"
             draggable="false"
           />
-          <h2 class="header__title">CINEMAS</h2>
+          <h1 class="header__title">CINEMAS</h1>
         </router-link>
 
         <nav class="nav">
