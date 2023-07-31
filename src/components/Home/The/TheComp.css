@@ -17,13 +17,16 @@
     text-transform: capitalize;
     border-bottom: 2px solid #F18128;
     display: inline-block;
-    
+    padding-bottom: 10px;
 }
 
 .the__list {
     margin-top: 55px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 31px;
 }
 
 .the__item {

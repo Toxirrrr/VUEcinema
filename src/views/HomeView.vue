@@ -5,6 +5,7 @@ import SeeComp from '../components/Home/See/SeeComp.vue';
 import TheComp from '../components/Home/The/TheComp.vue';
 import PastComp from '../components/Home/Past/PastComp.vue';
 import StarComp from '../components/Home/Star/StarComp.vue';
+import GameComp from '../components/Home/Game/GameComp.vue';
 </script>
 
 <template>
@@ -15,5 +16,6 @@ import StarComp from '../components/Home/Star/StarComp.vue';
     <TheComp />
     <PastComp />
     <StarComp />
+    <GameComp />
   </main>
 </template>
