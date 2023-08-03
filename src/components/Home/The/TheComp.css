@@ -40,7 +40,6 @@
     background-position: center;
     padding: 167px 14px 19px;
     border-radius: 6px;
-    transition: background-size 0.2s ease;
     transition: background-size 0.2s ease-in;
     -moz-transition: background-size 0.2s ease-in;
     background-size: 103%;
